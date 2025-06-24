@@ -58,28 +58,6 @@ make
 
 ---
 
-## 🗃️ .gitignore (Recommended)
-
-Create a `.gitignore` file and add:
-
-```gitignore
-*.o
-*.exe
-*.obj
-*.user
-*.user.*
-*.pro.user
-*.qmake.stash
-*.autosave
-build-*/
-Makefile
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-```
-
----
-
 ## 📃 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
