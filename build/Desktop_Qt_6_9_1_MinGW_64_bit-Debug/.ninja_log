@@ -1,0 +1,55 @@
+# ninja log v6
+18	515	7723834614997606	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+18	515	7723834614997606	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+18	515	7723834614997606	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+18	515	7723834614997606	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+520	1756	7723834615630133	CMakeFiles/QtTodo.dir/QtTodo_autogen/mocs_compilation.cpp.obj	c5ae9bc62db81a68
+523	1784	7723834615661607	CMakeFiles/QtTodo.dir/main.cpp.obj	586d6d890a2a9d00
+525	1884	7723834615682068	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+1884	2095	7723834629278619	QtTodo.exe	b2e3c978bde084c6
+29	154	7723835022507217	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+29	154	7723835022507217	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+29	154	7723835022507217	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+29	154	7723835022507217	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+155	1709	7723835023758427	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+1709	1817	7723835039309931	QtTodo.exe	b2e3c978bde084c6
+26	145	7723835269958097	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+26	145	7723835269958097	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+26	145	7723835269958097	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+26	145	7723835269958097	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+145	1687	7723835271144408	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+1687	1794	7723835286566372	QtTodo.exe	b2e3c978bde084c6
+23	139	7723837383366066	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+23	139	7723837383366066	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+23	139	7723837383366066	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+23	139	7723837383366066	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+140	1751	7723837384525781	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+1751	1869	7723837400643358	QtTodo.exe	b2e3c978bde084c6
+26	141	7723837501873585	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+26	141	7723837501873585	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+26	141	7723837501873585	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+26	141	7723837501873585	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+142	1737	7723837503026799	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+1737	1853	7723837518990181	QtTodo.exe	b2e3c978bde084c6
+32	461	7723841493431401	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+32	461	7723841493431401	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+32	461	7723841493431401	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+32	461	7723841493431401	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+462	1699	7723841494026654	CMakeFiles/QtTodo.dir/QtTodo_autogen/mocs_compilation.cpp.obj	c5ae9bc62db81a68
+464	1728	7723841494047123	CMakeFiles/QtTodo.dir/main.cpp.obj	586d6d890a2a9d00
+467	2285	7723841494078813	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+2286	2412	7723841512271112	QtTodo.exe	b2e3c978bde084c6
+55	168	7723966812062666	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+55	168	7723966812062666	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+55	168	7723966812062666	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+55	168	7723966812062666	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+169	2082	7723966813195912	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+2082	2434	7723966832332087	QtTodo.exe	b2e3c978bde084c6
+9	398	7723967537864261	QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+9	398	7723967537864261	QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+9	398	7723967537864261	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/timestamp	8cb75d890f5ecfa2
+9	398	7723967537864261	C:/Users/sdeve/Qt Projects/QtTodo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QtTodo_autogen/mocs_compilation.cpp	8cb75d890f5ecfa2
+401	1675	7723967538464851	CMakeFiles/QtTodo.dir/main.cpp.obj	586d6d890a2a9d00
+398	1678	7723967538433364	CMakeFiles/QtTodo.dir/QtTodo_autogen/mocs_compilation.cpp.obj	c5ae9bc62db81a68
+404	2237	7723967538485907	CMakeFiles/QtTodo.dir/todo.cpp.obj	f5a3e494d797bd7a
+2237	2364	7723967556827066	QtTodo.exe	b2e3c978bde084c6
